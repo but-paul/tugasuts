@@ -1,0 +1,37 @@
+<h2>Table</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Nama</th>
+            <th>Posisi</th>
+            <th>Kantor</th>
+            <th>Gaji</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Jakaria</td>
+            <td>Developer</td>
+            <td>Jakarta</td>
+            <td>Rp25.000.000</td>
+        </tr>
+        <tr>
+            <td>luthfi</td>
+            <td>Designer</td>
+            <td>Bandung</td>
+            <td>Rp8.000.000</td>
+        </tr>
+        <tr>
+            <td>gilang</td>
+            <td>Designer</td>
+            <td>cikarang</td>
+            <td>Rp9.000.000</td>
+        </tr>
+        <tr>
+            <td>rizki</td>
+            <td>developer</td>
+            <td>Bandung</td>
+            <td>Rp8.000.000</td>
+        </tr>
+    </tbody>
+</table>
